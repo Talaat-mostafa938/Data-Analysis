@@ -2,9 +2,7 @@
 
 ## Overview
 
-This project focuses on analyzing customer shopping data to extract insights that can help businesses better understand consumer behavior. 
-By exploring various aspects of the data—such as age, gender, 
-annual income, and spending scores—we aim to identify patterns and trends that can support data-driven decision-making.
+This project aims to analyze shopping data to understand customer behavior and improve marketing strategies. By analyzing the data, we can identify patterns and trends that help make informed decisions.
 
 ## It includes:
 - Data cleaning and preprocessing  
