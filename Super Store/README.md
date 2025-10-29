@@ -9,7 +9,7 @@
  • Total Orders: 5009
  • Total Quantity Ordered: 38K
 
-#💡 Insights Discovered:
+# 💡 Insights Discovered:
  • Top Region: West Region – contributing 32% of total sales.
  • Best Performing Category: Technology, generating $836K (36%) of total sales.
  • Highest Sales City: New York City with $256K in sales.
