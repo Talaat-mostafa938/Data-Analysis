@@ -1,4 +1,4 @@
-🚀 Power BI Sales Dashboard Insights – Superstore Dataset
+### 🚀 Power BI Sales Dashboard Insights – Superstore Dataset
 
 This dashboard explore sales, profit, and customer performance for the Superstore dataset — and here are some key takeaways 👇
 
